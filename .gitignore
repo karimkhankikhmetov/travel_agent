@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+saved_plans/
+.ipynb_checkpoints/
